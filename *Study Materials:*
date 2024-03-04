@@ -1,0 +1,45 @@
+# Study Materials
+
+This repository contains a comprehensive collection of study materials aimed at providing resources for individuals interested in learning about various aspects of cybersecurity, with a focus on Security Operations Center (SOC) fundamentals, threat intelligence, incident response, and related topics. The materials included range from PDFs, eBooks, to online courses, catering to different learning preferences and levels of expertise.
+
+## Contents:
+
+1. **SOC Fundamentals:**
+   - Introduction to Security Operations Centers
+   - SOC roles and responsibilities
+   - Tools and technologies used in SOC environments
+
+2. **Threat Intelligence:**
+   - Understanding threat actors and their tactics, techniques, and procedures (TTPs)
+   - Threat intelligence gathering methodologies
+   - Threat intelligence sharing and collaboration
+
+3. **Incident Response:**
+   - Incident detection and triage
+   - Incident response process and procedures
+   - Best practices for incident containment, eradication, and recovery
+
+4. **Additional Resources:**
+   - Whitepapers and case studies on real-world incidents
+   - Hands-on labs and exercises for practical learning
+   - Webinars and video tutorials from industry experts
+
+## How to Use:
+
+1. **Browse the Repository:**
+   - Explore the contents of the repository to find materials relevant to your interests or learning objectives.
+
+2. **Download Materials:**
+   - Download PDFs, eBooks, or enroll in online courses as per your preference.
+
+3. **Contribute:**
+   - If you have study materials that you believe would be beneficial for others, feel free to contribute by submitting a pull request.
+
+4. **Stay Updated:**
+   - Follow the repository to receive notifications about new additions or updates to the study materials.
+
+## Disclaimer:
+
+- The materials provided in this repository are for educational purposes only. Users are responsible for ensuring compliance with any licensing or usage restrictions associated with the materials.
+
+- The inclusion of any specific resource does not imply endorsement or recommendation by the repository maintainers. Users should exercise discretion and evaluate the suitability of the materials for their individual learning needs.
