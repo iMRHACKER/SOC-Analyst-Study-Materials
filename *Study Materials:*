@@ -49,6 +49,9 @@ to different learning preferences and levels of expertise.
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ==================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+ =====================
+|**SOC Fundamentals:**|
+ =====================
 Introduction to Security Operations Centers (SOCs):
 ====================================================
 Security Operations Centers (SOCs) are central units within organizations responsible for monitoring, detecting, and responding to 
@@ -163,3 +166,60 @@ you're new to cybersecurity or looking to advance your career, these platforms c
 =======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 =======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+Security Operations Centers (SOCs) rely on a variety of tools and technologies to monitor, detect, analyze, and respond to cybersecurity threats effectively. Here's an overview of some commonly used tools and platforms:
+===============================================================================================================================================================================================================================
+1. **SIEM (Security Information and Event Management)**:
+   - SIEM platforms aggregate and correlate security events from various sources such as network devices, servers, and applications to identify potential security incidents.
+   - Popular SIEM solutions include Splunk, IBM QRadar, and LogRhythm.
+
+2. **IDS/IPS (Intrusion Detection/Prevention Systems)**:
+   - IDS monitors network traffic for suspicious activity or security policy violations.
+   - IPS can block or prevent detected threats from reaching their target.
+   - Examples include Snort, Suricata, and Cisco Firepower.
+
+3. **Endpoint Detection and Response (EDR)**:
+   - EDR solutions provide continuous monitoring and real-time response capabilities on endpoints.
+   - They detect and respond to advanced threats targeting endpoints, such as malware and fileless attacks.
+   - Popular EDR tools include CrowdStrike Falcon, Carbon Black, and Microsoft Defender ATP.
+
+4. **Vulnerability Management**:
+   - These tools identify, prioritize, and remediate security vulnerabilities in systems and applications.
+   - Examples include Tenable Nessus, Qualys, and Rapid7 InsightVM.
+
+5. **Threat Intelligence Platforms**:
+   - These platforms collect, analyze, and disseminate threat intelligence to aid in identifying and mitigating potential security threats.
+   - Popular platforms include ThreatConnect, Anomali, and Recorded Future.
+
+6. **Network Traffic Analysis (NTA)**:
+   - NTA tools monitor network traffic to detect suspicious behavior, anomalous patterns, and potential threats.
+   - Examples include Darktrace, Vectra AI, and Cisco Stealthwatch.
+
+7. **Security Orchestration, Automation, and Response (SOAR)**:
+   - SOAR platforms integrate disparate security tools and automate incident response processes to improve efficiency and effectiveness.
+   - Leading SOAR solutions include Palo Alto Networks Cortex XSOAR, IBM Resilient, and Splunk Phantom.
+
+Learning Platforms:
+========================
+- **Cybrary**: Offers a wide range of cybersecurity courses, including SOC-related topics.
+   [Cybrary](https://www.cybrary.it/)
+
+- **Pluralsight**: Provides courses on SOC operations, SIEM, threat detection, and incident response.
+   [Pluralsight](https://www.pluralsight.com/)
+
+- **Udemy**: Offers numerous courses on SOC operations, cybersecurity, and related technologies.
+   [Udemy](https://www.udemy.com/)
+
+YouTube Channels:
+====================
+- **SANS Institute**: Provides educational content on cybersecurity topics, including SOC operations.
+   [SANS Institute YouTube Channel](https://www.youtube.com/user/SANSInstitute)
+
+- **The Cyber Mentor**: Offers tutorials, walkthroughs, and insights into cybersecurity concepts, including SOC operations.
+   [The Cyber Mentor YouTube Channel](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
+
+- **Hak5**: Covers a wide range of cybersecurity topics, including tools and techniques relevant to SOC environments.
+   [Hak5 YouTube Channel](https://www.youtube.com/user/Hak5Darren)
+
+=========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
