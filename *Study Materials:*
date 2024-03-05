@@ -335,3 +335,61 @@ cybersecurity defenses and resilience against cyber threats.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ===========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+===============================================
+|Threat intelligence gathering methodologies |
+===============================================
+
+Threat intelligence gathering methodologies encompass various approaches and techniques used to collect, analyze, and interpret information about potential cyber threats. 
+Here, I'll outline some common methodologies along with examples, and then provide links to learning platforms and YouTube channels for further exploration.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Threat Intelligence Gathering Methodologies:
+==================================================
+1. **Open Source Intelligence (OSINT)**:
+   - OSINT involves gathering information from publicly available sources such as social media, news articles, forums, and websites.
+   - Example: Monitoring hacker forums for discussions about new malware or vulnerabilities.
+
+2. **Human Intelligence (HUMINT)**:
+   - HUMINT involves gathering intelligence through direct interaction with people, such as through interviews or informants.
+   - Example: Recruiting insiders within a competitor's organization to gather information about their security measures.
+
+3. **Technical Intelligence (TECHINT)**:
+   - TECHINT involves the analysis of technical data to identify potential threats, including malware analysis and network traffic analysis.
+   - Example: Analyzing network logs to detect patterns of suspicious activity indicative of a potential cyber attack.
+
+4. **Cyber Threat Intelligence Feeds**:
+   - Subscribing to commercial or open-source feeds that provide timely information about known threats, vulnerabilities, and indicators of compromise (IOCs).
+   - Example: Subscribing to the Mitre ATT&CK framework or the US-CERT's National Cyber Awareness System for updates on emerging threats.
+
+5. **Dark Web Monitoring**:
+   - Monitoring the dark web for discussions, marketplaces, and forums where cybercriminals exchange information or sell malicious tools.
+   - Example: Using specialized tools to crawl dark web forums for mentions of specific keywords related to potential threats.
+
+### Learning Platforms:
+==========================
+1. **Cybrary** (https://www.cybrary.it/): Offers a wide range of cybersecurity courses, including threat intelligence and analysis.
+
+2. **Coursera** (https://www.coursera.org/): Provides courses from top universities and organizations, including topics like cybersecurity and threat intelligence.
+
+3. **Udemy** (https://www.udemy.com/): Offers various courses on threat intelligence gathering methodologies and cyber threat analysis.
+
+4. **Pluralsight** (https://www.pluralsight.com/): Features courses on cybersecurity, including threat intelligence, taught by industry experts.
+
+### YouTube Channels:
+=======================
+1. **SANS Institute** (https://www.youtube.com/user/SANSInstitute): Offers videos on various cybersecurity topics, including threat intelligence 
+     and incident response.
+
+2. **Cyber Mentor** (https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw): Provides tutorials and insights into cybersecurity, including 
+     threat intelligence analysis.
+
+3. **Security Weekly** (https://www.youtube.com/user/SecurityWeeklyTV): Covers cybersecurity news, trends, and interviews with industry experts, 
+     including discussions on threat intelligence.
+
+4. **Black Hills Information Security** (https://www.youtube.com/user/webpwnized): Features tutorials, webcasts, and discussions on cybersecurity, 
+     including threat hunting and intelligence gathering.
+
+These platforms and channels offer valuable resources for individuals looking to learn about threat intelligence gathering methodologies, whether 
+they're beginners or seasoned professionals in the field.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
