@@ -223,3 +223,68 @@ YouTube Channels:
 =========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 =========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+============================
+| **Threat Intelligence:** |
+============================
+
+Threat Intelligence plays a crucial role in Security Operations Center (SOC) environments by providing insights into potential 
+cybersecurity threats and helping organizations proactively defend against them. Here's an overview of Threat Intelligence in 
+SOC environments along with some recommended learning platforms and YouTube channels:
+--------------------------------------------------------------------------------------------------------------------------------------------
+**Threat Intelligence in SOC Environments:**
+===============================================
+1. **Data Collection:** Threat Intelligence involves collecting data from various sources such as security feeds, open-source intelligence (OSINT), 
+     dark web monitoring, malware analysis reports, and industry-specific sources.
+
+2. **Analysis:** The collected data is then analyzed to identify patterns, trends, and indicators of potential threats. This analysis helps in 
+     understanding the tactics, techniques, and procedures (TTPs) used by threat actors.
+
+3. **Integration:** The intelligence gathered is integrated into SOC tools and systems to enhance threat detection and response capabilities. This 
+     integration enables real-time monitoring and alerts for potential security incidents.
+
+4. **Actionable Insights:** Threat Intelligence provides actionable insights to SOC analysts, enabling them to prioritize and respond to security 
+     incidents effectively. This may include updating security policies, implementing new controls, or patching vulnerabilities.
+
+5. **Threat Hunting:** Threat Intelligence also supports proactive threat hunting activities within the SOC. By leveraging intelligence feeds and 
+     indicators of compromise (IOCs), SOC analysts can actively search for signs of compromise and malicious activity within the network.
+
+**Learning Platforms:**
+=========================
+1. **Cybrary:** Cybrary offers a wide range of cybersecurity courses, including those focused on Threat Intelligence. Their platform provides both 
+     free and paid courses, covering various aspects of threat intelligence analysis and operations.
+
+   [Cybrary - Threat Intelligence Courses](https://www.cybrary.it/catalog/cyber-security/)
+
+2. **Coursera:** Coursera partners with top universities and organizations to offer online courses on cybersecurity topics, including Threat Intelligence. 
+     These courses often provide a comprehensive understanding of threat intelligence concepts and practices.
+
+   [Coursera - Threat Intelligence Courses](https://www.coursera.org/courses?query=threat%20intelligence)
+
+3. **Udemy:** Udemy hosts a variety of cybersecurity courses, including those specifically focused on Threat Intelligence. These courses cover 
+     different aspects of threat intelligence analysis, including data collection, analysis techniques, and threat hunting.
+
+   [Udemy - Threat Intelligence Courses](https://www.udemy.com/courses/search/?q=threat%20intelligence)
+
+**YouTube Channels:**
+========================
+1. **SANS Institute:** SANS is a trusted source of cybersecurity training and resources, including YouTube channels that feature talks and 
+     presentations by industry experts on various cybersecurity topics, including Threat Intelligence.
+
+   [SANS Institute YouTube Channel](https://www.youtube.com/user/SANSInstitute)
+
+2. **The Cyber Mentor:** The Cyber Mentor is a popular cybersecurity educator who covers a wide range of topics, including Threat Intelligence, 
+     through tutorials, walkthroughs, and live streams on his YouTube channel.
+
+   [The Cyber Mentor YouTube Channel](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
+
+3. **CyberWire:** The CyberWire is a leading cybersecurity news and analysis platform that offers informative videos and podcasts covering 
+     current threats, trends, and best practices in cybersecurity, including Threat Intelligence.
+
+   [CyberWire YouTube Channel](https://www.youtube.com/channel/UCZcRD_bM4HeM3UhgndXESiA)
+
+These learning platforms and YouTube channels can serve as valuable resources for individuals looking to gain knowledge and skills in 
+Threat Intelligence and enhance their capabilities in SOC environments.
+==========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+==========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
